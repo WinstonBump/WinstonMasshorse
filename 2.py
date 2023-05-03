@@ -1,4 +1,4 @@
-# шаблон test
+# шаблон
 import pygame
 from config import *
 
